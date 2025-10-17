@@ -3,6 +3,8 @@
 ## 📘 Overview
 **HMAC Crypto Explorer** is an interactive web application built with **React** and **TypeScript** that helps users understand **HMAC (Hash-based Message Authentication Code)** cryptography. It provides hands-on learning through demos and quizzes to make secure hashing and message authentication easy to understand.
 
+🔗 **Live Demo:** https://hmac-crypto.netlify.app
+
 ## ✨ Features
 - 🧪 Interactive demos illustrating HMAC algorithms and how they work  
 - 🧠 Quizzes to test and strengthen cryptography knowledge  
