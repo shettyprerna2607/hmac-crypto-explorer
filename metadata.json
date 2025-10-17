@@ -1,0 +1,5 @@
+{
+  "name": "HMAC Cryptography Explorer",
+  "description": "An interactive web application to learn about, demonstrate, and test the HMAC (Hash-based Message Authentication Code) cryptographic function.",
+  "requestFramePermissions": []
+}
