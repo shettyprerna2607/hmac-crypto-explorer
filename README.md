@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔐 HMAC Crypto Explorer
 
-# Run and deploy your AI Studio app
+## 📘 Overview
+**HMAC Crypto Explorer** is an interactive web application built with **React** and **TypeScript** that helps users understand **HMAC (Hash-based Message Authentication Code)** cryptography. It provides hands-on learning through demos and quizzes to make secure hashing and message authentication easy to understand.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/17IUsK7Jfe3Dyz3UYtc3T4lCO9OKSp7f2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+- 🧪 Interactive demos illustrating HMAC algorithms and how they work  
+- 🧠 Quizzes to test and strengthen cryptography knowledge  
+- 🎓 Educational modules for better learning of message authentication concepts  
+- ⚡ Built with React + TypeScript + Vite for fast and modern development
